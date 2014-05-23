@@ -1,4 +1,5 @@
 DB1
 ===
 
-SQL Queries, Oracle 11g Database Engine
+Written using Oracle 11g Database Engine for a SQL Experience Project.
+University of Houston (MIS 3376)
